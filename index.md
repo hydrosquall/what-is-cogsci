@@ -16,7 +16,7 @@
   
 Homepage:
 
-![Welcome Graphic](assets/cogsci.png)
+![Welcome Graphic](img/cogsci.png)
 (If you’re here, you might be an X, or a Y, or a Z) 
 
 ##Text (mostly disconnected excerpts):
@@ -27,7 +27,6 @@ What’s the point of learning? In most subjects, you’re trying to solve probl
 - Sociology tries to learn about how... 
 - (Continue in this vein) 
   
-
 ###What’s the point of practical education?
 
 We’d say something like: “To predict the future”. After all, we can’t solve problems unless we have some idea what will happen if we take a particular course of action.
@@ -39,7 +38,6 @@ Most college majors prepare students to predict certain types of futures:
 - Engineers try to predict what will happen if we shoot a rocket into space 
 - Economists try to predict what will happen if we raise the minimum wage  
   
-
 And so on. There are millions of questions to be answered in the world, and every one has a branch of study behind it.
 
 (Move on to cognitive science example)
@@ -75,10 +73,6 @@ This is getting pretty abstract, so we’ll give you an example:
 > Aaron Gertler, one of the authors of this website...
 
 > Cameron Yick, the other author of this website...
-
-Cameron 
-
-hr
 
 ##FAQs
 
@@ -124,7 +118,6 @@ Trouble: Maybe people with a math/science mindset will think that these aren’t
 
 We’re so glad you asked? (“once you know how your brain works, you can do cool things with it”) (your brain, and the brains of others)
 
-
 ####CBT
 
 ####Cognitive enhancement (see the word “cognitive”? It can go to some cool places!)
@@ -134,22 +127,3 @@ Examples
 ####Mental Models
 
 (working with ideas from many different fields to build useful metaphors and systems of problem-solving) (Warren Buffet, Random Walk Down Wall Street, Terry Odean, Charlie Munger)
-
-##What are Sources of Cool Cogsci Info? (Links on Cogsci) 
-- Cogsci Courses of Study at several top programs 
-    - Compare to [Don Norman](http://www.jnd.org/) / HCI recommendations / Game design 
-- CFAR (do they have a “results” page yet?) 
-- MIRI? (Too controversial?) 
-- EA? (using cognitive science to help people do more good) 
-- Education links (some of the Yale RULER-type “emotional intelligence” projects?) 
-- You Are Not So Smart (the intersection of psychology, linguistics, and economics -- this could also be some other cognitive-bias site)... LessWrong Massimo 
-- Ideas42 
-- Behavioural Insights team (UK) 
-- Websites of key cogsci people: [Kahneman](https://www.princeton.edu/~kahneman/), [Christakis](http://nicholaschristakis.net/), [Knobe](http://pantheon.yale.edu/~jk762/)
-
-- what constitutes cogsci programs at different universities 
-- onboarding case studies 
-  
-
-  
-
